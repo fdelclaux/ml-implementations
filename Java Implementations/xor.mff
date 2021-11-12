@@ -1,0 +1,12 @@
+@dataset xor
+
+@attribute x1 f t
+@attribute x2 f t
+@attribute y f t
+
+@examples
+
+f f f
+f t t
+t f t
+t t f
